@@ -15,4 +15,5 @@ I'll fill this as more stuff comes. Under construction. Managing expectations, y
 ## Slides
 
 * [Day 1 - Wikidata](https://docs.google.com/presentation/d/1GZj3oXDLj4xAi4otjZFzi6_TyFyv9Jb9I6Nl6UqnwRc/edit?usp=sharing)
+* [Day 2 - Cartography](https://docs.google.com/presentation/d/1keKdQsWhkMDOdBKlCjNkOeci2pogMlEZIeTSOGoTn48/edit?usp=sharing)
 
